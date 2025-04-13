@@ -10,7 +10,7 @@ tags:
   - Live Migration 
   - Proxmox
 ---
-# 3. Proxmox, VM Linux completely into RAM À propos d'une façon d'implémenter une machine virtuelle sans disque basée sur Linux pour les clusters qui s'exécute uniquement en RAM.
+# Proxmox, VM Linux completely into RAM À propos d'une façon d'implémenter une machine virtuelle sans disque basée sur Linux pour les clusters qui s'exécute uniquement en RAM.
 
 **La solution suivante, à mon avis, est bonne pour implémenter une machine virtuelle qui n'utilise pas de stockage, peut fonctionner en mode HA, migration en direct et effectuer diverses tâches et fournir une tolérance aux pannes, réalisée sur Linux Debian dans un cluster Proxmox.**
 
